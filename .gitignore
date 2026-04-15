@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except the main notebook
+!french_poetry_generator.ipynb
+!.gitignore
